@@ -1,0 +1,11 @@
+{
+  "images": [
+    "http://localhost:3000/images/emp.png",
+    "http://localhost:3000/images/emp.png",
+    "http://localhost:3000/images/emp.png",
+    "http://localhost:3000/images/emp.png",
+    "http://localhost:3000/images/emp.png"
+  ],
+  "cardWidthRatio": 0.75,
+  "cardHeightRatio": 0.75
+}

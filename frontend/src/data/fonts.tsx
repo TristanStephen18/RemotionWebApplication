@@ -1,0 +1,17 @@
+export const fontOptions = [
+  { label: "Arial", value: "Arial, sans-serif" },
+  { label: "Helvetica", value: "Helvetica, sans-serif" },
+  { label: "Open Sans", value: "'Open Sans', sans-serif" },
+  { label: "Roboto", value: "Roboto, sans-serif" },
+  { label: "Russo", value: "'Russo One', sans-serif" },
+  { label: "Lato", value: "'Lato', sans-serif" },
+  { label: "Montserrat", value: "'Montserrat', sans-serif" },
+  { label: "Playfair Display", value: "'Playfair Display', serif" },
+  { label: "Cinzel", value: "'Cinzel', serif" },
+  { label: "Quicksand", value: "'Quicksand', sans-serif" },
+  { label: "Amatic SC", value: "'Amatic SC', cursive" },
+  { label: "Orbitron", value: "'Orbitron', sans-serif" },
+  { label: "Press Start 2P", value: "'Press Start 2P', cursive" },
+  { label: "Pacifico", value: "'Pacifico', cursive" },
+  { label: "Raleway", value: "'Raleway', sans-serif" }, 
+];

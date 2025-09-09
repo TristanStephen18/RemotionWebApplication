@@ -1,0 +1,8 @@
+{
+  "quote": "Your Quote",
+  "author": "Author",
+  "backgroundImage": "http://localhost:3000/bgimages/colors/bg1.jpg",
+  "fontFamily": "Cormorant Garamond, serif",
+  "fontSize": 1.4,
+  "fontColor": "white"
+}
