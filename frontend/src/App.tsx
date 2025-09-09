@@ -49,8 +49,8 @@ function App() {
           path="/template/faketextconversation"
           element={<FakeTextConversationEditor />}
         />
-        <Route path="/templates/redditvideo" element={<RedditVideoEditor />} />
-        <Route path="/templates/storytelling" element={<StoryTellingVideoEditor />} />
+        <Route path="/template/redditvideo" element={<RedditVideoEditor />} />
+        <Route path="/template/storytelling" element={<StoryTellingVideoEditor />} />
 
 
         <Route path="/" element={<LoginPage />} />
